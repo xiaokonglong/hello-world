@@ -16,3 +16,5 @@ test
 add new lines on laptop
 
 add with conflict
+
+re-allocate
